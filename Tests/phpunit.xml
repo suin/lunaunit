@@ -10,6 +10,7 @@
 		<testsuite name="PHPUnit">
 			<directory suffix="Test.php">PHPVersion</directory>
 			<directory suffix="Test.php">LunaUnit</directory>
+			<directory suffix="Test.php">LunaUnitFunctional</directory>
 		</testsuite>
 	</testsuites>
 
