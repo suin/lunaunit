@@ -1,0 +1,4 @@
+namespace = 
+namespaceSeparator = _
+testCaseClass = PHPUnit_Framework_TestCase
+classDocComment = Off

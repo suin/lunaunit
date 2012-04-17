@@ -1,0 +1,4 @@
+namespace = 
+namespaceSeparator = _
+testCaseClass = LunaUnit_TestCase
+classDocComment = Off
